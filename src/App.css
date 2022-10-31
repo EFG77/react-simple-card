@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  border:1px solid orange;
 }
 
 .App-logo {
@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.destore{
+  display:flex;
+  align-items:baseline;
+  margin-left: 700px; 
+}
+
+.intro{
+  display: flex;
+  align-items:baseline;
+  margin-left: 700px;
+}
+
+.picture{
+  display: block;
+  position: fixed;
+
+}
+
+.ctext{display: flex;
+      align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
